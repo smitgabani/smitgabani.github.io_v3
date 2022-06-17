@@ -38,7 +38,6 @@ function Profile() {
 			</div>
 			<div id="end">
 				<EatCookie/>
-
 			</div>
 			<div className="sidebar__inner "></div>
 		</div>
